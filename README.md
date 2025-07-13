@@ -13,10 +13,9 @@
 
 ## 📋 Table of Contents
 
-1. [Introduction](#-introduction)
+
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
-4. [Quick Start](#-quick-start)
 5. [Screenshots](#-screenshots)
 6. [Deployment](#-deployment)
 
@@ -62,29 +61,32 @@
 
 ---
 
-## 👌 Quick Start
-
-### Prerequisites
-
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
-
-### Clone and Run
-
-```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
-npm install
-npm run dev
-```
-
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
 ## 🖼️ Screenshots
 
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+### 📸 PROJECT SCREENSHOTS
+
+#### 🖼️ **Image 1**
+`img1.png` – This screenshot displays the herosection of portfolio homepage.  
+![img1](public/projects/img1.png)
+
+
+#### 🖼️ **Image 1.2**
+`img1.2.png` – This screenshot displays the herosection of portfolio homepage in <b>lighter version</b>.  
+![img1.2](public/projects/img1.2.png)
+
+#### 🖼️ **Image 2**
+`img2.png` – This section highlights the featured projects with hover animations.  
+![img2](public/projects/img2.png)
+
+#### 🖼️ **Image 3**
+`img3.png` – About me section of the portfolio with a responsive form layout.  
+![img3](public/projects/img3.png)
+
+
+#### 🖼️ **Image 4**
+`img3.png` – Contact section of the portfolio with a responsive form layout.  
+![img4](public/projects/img5.png)
 
 ---
 

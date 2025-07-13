@@ -16,8 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              I am a Computer Science undergraduate passionate about creating impactful technology solutions.My interests include software development, web technologies, and data-driven applications.I enjoy tackling complex problems and stay updated with the latest tech trends to ensure my work is both innovative and effective.
-
+              I am a CSE undergrad passionate about creating impactful Tech solutions. My interests include software development, web technologies, and data-driven apps. I enjoy tackling complex problems and stay updated with the latest tech trends to ensure my work is both innovative and effective.
 
             </p>
 
@@ -31,12 +30,12 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
 
-              {/* <a
-                href=""
+              <a
+                href="https://flowcv.com/resume/ql3p4km0pve1"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Download CV
-              </a> */}
+                View Resume
+              </a>
             </div>
           </div>
 
@@ -61,10 +60,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Gen AI</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                   Building intelligent systems that generate human-like content and enhance user interaction.
                   </p>
                 </div>
               </div>
@@ -76,10 +74,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Passionate Programmer</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                   Programming is my hobby and passion — solving problems with clean, efficient code.
                   </p>
                 </div>
               </div>
