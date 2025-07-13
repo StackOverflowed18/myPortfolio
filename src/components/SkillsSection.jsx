@@ -9,6 +9,7 @@ const skills = [
   { name: "TypeScript", level: 50, category: "frontend" },
   { name: "Tailwind CSS", level: 90, category: "frontend" },
   { name: "Bootstrap 4", level: 80, category: "frontend"},
+  { name: "Vite", level: 75, category: "frontend"},
 
   // Backend
   // { name: "Node.js", level: 80, category: "backend" },
@@ -22,7 +23,7 @@ const skills = [
   { name: "Git/GitHub", level: 90, category: "tools" },
   // { name: "Docker", level: 70, category: "tools" },
   { name: "Figma", level: 70, category: "tools" },
-  { name: "VS Code", level: 95, category: "tools" },
+  { name: "Microsoft Visual Studio", level: 95, category: "tools" },
 
   // Soft Skills
   { name: "leadership", level: 85, category: "Soft Skills" },

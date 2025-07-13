@@ -3,7 +3,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 3,
-    title: "Healthcare Data Management System",
+    title: "Healthcare Data Management System (HDMS)",
     description: "A HDMS using SQL which represents a pivotal step towards modernizing healthcare operations and enhancing the quality of patient care.",
     image: "/projects/project1.png",
     tags: ["MySQL" ,"XAMPP" ,"HTML" ,"CSS"],
@@ -26,9 +26,9 @@ const projects = [
     description:
       "A shopping made easy e-commerce website tool used for image upload based shopping assistance.",
     image: "/projects/project3.png",
-tags: ["TypeScript", "JavaScript", "Python", "CSS", "HTML"],
+    tags: ["React", "Vite", "Tailwind CSS", "Node.js", "Express", "Python"],
     demoUrl: "#",
-    githubUrl: "https://github.com/StackOverflowed18/ShopLens",
+    githubUrl: "https://github.com/anshita-24/ShopLens",
   },
 ];
 
