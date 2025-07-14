@@ -1,7 +1,8 @@
 # Modern Portfolio Website with React & TailwindCSS
 
-[🔗 Live Link](https://my-portfolio-delta-five-52.vercel.app/#hero)
+## [🔗 Live Link](https://my-portfolio-delta-five-52.vercel.app)
 
+using :-
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -51,10 +52,6 @@
   Easily host your site with Vercel and GitHub
 
 ---
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
 ### 📸 PROJECT SCREENSHOTS
 
