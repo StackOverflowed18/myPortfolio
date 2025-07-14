@@ -1,4 +1,4 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# Modern Portfolio Website with React & TailwindCSS
 
 <div align="center">
   
@@ -10,16 +10,6 @@
     <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
-
-## 📋 Table of Contents
-
-
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
-
----
 
 ## ⚙️ Tech Stack
 
