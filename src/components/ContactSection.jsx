@@ -102,7 +102,7 @@ export const ContactSection = () => {
                   href="https://www.instagram.com/beautywithbrain901/"
                   target="_blank"
                 >
-                  <Instagram />
+                
                 </a>
               </div>
             </div>
